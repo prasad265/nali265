@@ -3,3 +3,4 @@ this is for demo
 started learning git
 facing issues
 fot push
+solved issue
